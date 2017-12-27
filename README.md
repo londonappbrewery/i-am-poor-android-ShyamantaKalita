@@ -1,6 +1,6 @@
 # i-am-poor-android-ShyamantaKalita
 ![Screenshot](final_screenshoot.png)
-i-am-poor-android-ShyamantaKalita created by GitHub Classroom.
+<p></p>i-am-poor-android-ShyamantaKalita created by GitHub Classroom.
 This was an app challange from London App Brewery Github Classroom.
 This challange was completed as per the guideline.
 			
