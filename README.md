@@ -5,4 +5,4 @@
 <h3>This was an app challange from London App Brewery Github Classroom.
 This challange was completed as per the guideline.</h3>
 			
-					  Thank You For Watching This Repository
+					    Thank You For Watching This Repository
